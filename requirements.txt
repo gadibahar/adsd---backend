@@ -1,5 +1,5 @@
-Flask
-stripe
-python-dotenv
+flask
+gunicorn
+pillow
 opencv-python
-pytesseract
+numpy
